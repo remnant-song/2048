@@ -65,6 +65,7 @@
 ---
 
 ## 📸 示例截图
+<img width="872" height="466" alt="屏幕截图 2025-10-26 170307" src="https://github.com/user-attachments/assets/401c83bf-bc5b-49f6-bd84-b32e4ec9c02d" />
 
 
 ## 🚀 编译与运行
