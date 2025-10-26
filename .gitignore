@@ -1,0 +1,36 @@
+# 保留的文件
+!*.cpp
+!README.md
+!.gitignore
+
+# 忽略其他所有文件
+*
+
+# 以下目录和文件也忽略（这些是冗余的 VS 文件）
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+.vs/
+*.exe
+*.obj
+*.pdb
+*.idb
+*.log
+*.vcxproj
+*.vcxproj.filters
+*.sln
+*.user
+*.aps
+*.ncb
+*.opendb
+*.opensdf
+*.db
+*.tlog
+*.ilk
+*.cachefile
+*.ipch
+*.tmp
+*.manifest
+*.res
+*.rc
